@@ -1,9 +1,3 @@
-I wrote:
-Field.c
-Negotiation.c
-MessageTest.c
-AgentTest.c
-
 The battleboats system works using four main files. The agent, negotiation, message, and field
 modules. The agent module is the state machine which switches from the different states in the
 game. The field was used to diplay both fields in battle ship. The message module was used to 
